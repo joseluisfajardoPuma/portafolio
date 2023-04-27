@@ -1,0 +1,19 @@
+{
+  "name": "next-simple-portafolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^3.1.9",
+    "bootswatch": "^5.2.3",
+    "next": "^13.3.0",
+    "nprogress": "^0.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
